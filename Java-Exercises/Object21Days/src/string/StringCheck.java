@@ -2,7 +2,7 @@ package string;
 
 public class StringCheck {
     public static void main(String[] args) {
-        String Str =" Yo know nothing, Jon Snow";
+        String Str =" You know nothing, Jon Snow";
         System.out.println("The String is :"+ Str);
 
         System.out.println("The Length of string is :"+ Str.length());
